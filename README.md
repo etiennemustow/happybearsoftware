@@ -12,3 +12,5 @@ cd hbs
 bin/rails server
 ```
 * Open up your browser and enter `http://localhost:3000/` in the URL
+
+## Running Tests
